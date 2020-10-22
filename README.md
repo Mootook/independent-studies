@@ -34,6 +34,14 @@ as it is assumed most of the people following this curriculum are already educat
 The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,
 but specifically chosen to meet the following criteria.
 
+Note, the course curriculum and plan has been modified based on feedback from IGDA members. The following have been identified as the most important concepts to grasp:
+- Data structures (Stacks, Queues, Heaps, Binary trees, etc.)
+- Basic algorithms (FIFO, LIFO, Sorting algorithms, Bubble sort, binary search, why some are faster than others, etc.)
+- Complexity (Maybe this isn't the right term but you should know what Big O notation is (ie, O(n), O(n log n), etc.) and how to determine it for an algorithm
+- You can program a little but (you can write a recursive function that prints a string or something)
+- You know how an operating systems works (Processes, paging, deadlocks, etc)
+- *Networking (how computers talk to each other)
+
 **Courses must**:
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
@@ -360,7 +368,7 @@ Courses | Duration | Effort | Prerequisites
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
 
-### Advanced systems
+### Advanced systems (Optional)
 
 **Topics covered**:
 `digital signaling`
