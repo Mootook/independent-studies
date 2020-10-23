@@ -2,8 +2,6 @@
 
 This is a list of additional materials related to computer science or game design/programming.
 
-
-
 ## GDC Talks
 
 Watched | Title
@@ -60,4 +58,8 @@ Title | Description
 - https://www.ehilldesign.com/the-last-of-us-part-ii
 - https://joeydevries.com/#about
 
+## Math Resources
+- https://chortle.ccsu.edu/VectorLessons/vectorIndex.html
+- http://immersivemath.com/ila/index.html
+- https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
 
