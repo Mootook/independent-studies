@@ -42,6 +42,8 @@ Note, the course curriculum and plan has been modified based on feedback from IG
 - You know how an operating systems works (Processes, paging, deadlocks, etc)
 - *Networking (how computers talk to each other)
 
+**[Follow my progress!](https://github.com/Mootook/independent-studies/projects/1)** 
+
 **Courses must**:
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
@@ -123,7 +125,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ## Intro CS
 
-### Introduction to Programming
+### Introduction to Programming (disregard)
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
