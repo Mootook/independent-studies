@@ -63,3 +63,6 @@ Title | Description
 - http://immersivemath.com/ila/index.html
 - https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
 
+## Articles
+- [Composition in Level Design](http://level-design.org/?page_id=2274)
+
