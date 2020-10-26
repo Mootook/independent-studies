@@ -28,6 +28,9 @@ Title | Description
 [Raycevick](https://www.youtube.com/c/Raycevick/videos) | Game essays, reviews
 [Matthew Palaje](https://www.youtube.com/c/MatthewPalaje/videos) | Dev livestreams, "Let's Creates"
 [Errant Signal](https://www.youtube.com/c/ErrantSignal/featured) | Game analyses
+[Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists) | Advanced C++ Tutorials
+[The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | C++ Tutorials/Concepts
+
 
 ## Podcasts
 - Play. Watch, Listen
