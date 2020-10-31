@@ -88,7 +88,7 @@ Read | Name | Author(s)
 Read | Name | Author(s)
 :-- | :--: | :--:
 :white_check_mark: |  A Theory of Fun for Game Design | Raph Koster
-:white_large_square: | Developer's Dilemma: The Secret World of Video Game Creators | Casey O'Donnell
+:white_check_mark: | Developer's Dilemma: The Secret World of Video Game Creators | Casey O'Donnell
 :white_large_square: | Game Engine Architecture, Third Edition | Jason Gregory
 :white_large_square: | The Art of Game Design | Jesse Schell 
 :white_large_square: | Understanding Comics | Scott McCloud
