@@ -89,9 +89,10 @@ Read | Name | Author(s)
 :-- | :--: | :--:
 :white_check_mark: |  A Theory of Fun for Game Design | Raph Koster
 :white_check_mark: | Developer's Dilemma: The Secret World of Video Game Creators | Casey O'Donnell
+:white_check_mark: | Understanding Comics | Scott McCloud
+:white_large_square: | Boss Fight Books: Earthbound | Ken Baumann
 :white_large_square: | Game Engine Architecture, Third Edition | Jason Gregory
 :white_large_square: | The Art of Game Design | Jesse Schell 
-:white_large_square: | Understanding Comics | Scott McCloud
 :white_large_square: | Level Up! | Scott Rogers
 :white_large_square: | Framed Ink | Marcos Mateu-Mestre
 :white_large_square: | Things We Think About Games | Will Hindmarch & Jeff Tidball
