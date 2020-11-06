@@ -48,6 +48,9 @@
     <ClCompile Include="ChapterF.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ChapterEight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ChapterFive.h">
@@ -78,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ChapterF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChapterEight.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
