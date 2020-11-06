@@ -2,7 +2,9 @@
 
 #include <array>
 #include <cassert>
+#include <cstdint>
 #include <iostream>
+#include <string>
 
 namespace chapterEight
 {
@@ -203,6 +205,103 @@ namespace chapterEight
 
 			stack.print();
 
+			break;
+		}
+		case 5:
+		{
+			// Quiz
+
+			// Question 1. Write a class named Ball. Ball should have two private member variables
+			// with default values: m_color (“black”) and m_radius (10.0).
+			// Ball should provide constructors to set only m_color, set only m_radius,
+			// set both, or set neither value. For this quiz question, do not
+			// use default parameters for your constructors.
+			// Also write a function to print out the color and radius of the ball.
+
+			class Ball
+			{
+			private:
+				std::string m_color{ "black" };
+				float m_radius{ 10.0f };
+			public:
+				Ball() = default;
+
+				Ball(const std::string &color, float radius)
+				{
+					m_color = color;
+					m_radius = radius;
+				}
+
+				Ball(const std::string &color)
+				{
+					m_color = color;
+				}
+
+				Ball(float radius)
+				{
+					m_radius = radius;
+				}
+
+				void print()
+				{
+					std::cout << "Radius is " << m_radius << " and the color is " << m_color << '\n';
+				}
+
+			};
+
+			// The following sample program should compile:
+			Ball def{};
+			def.print();
+
+			Ball blue{ "blue" };
+			blue.print();
+
+			Ball twenty{ 20.0 };
+			twenty.print();
+
+			Ball blueTwenty{ "blue", 20.0 };
+			blueTwenty.print();
+
+			// Correct
+
+			// Section 5a
+			// Quiz
+			// Question 1. Write a class named RGBA that contains 4 member variables of type
+			// std::uint_fast8_t named m_red, m_green, m_blue, and m_alpha (#include cstdint to access type std::uint_fast8_t).
+			// Assign default values of 0 to m_red, m_green, and m_blue, and 255 to m_alpha.
+			// Create a constructor that uses a member initializer list that allows the user to initialize values for m_red, m_blue, m_green, and m_alpha.
+			// Include a print() function that outputs the value of the member variables.
+
+			class RGBA
+			{
+			private:
+				std::uint_fast8_t m_red;
+				std::uint_fast8_t m_green;
+				std::uint_fast8_t m_blue;
+				std::uint_fast8_t m_alpha;
+			public:
+				RGBA()
+				{
+					m_red = 0;
+					m_alpha = 255;
+				}
+				RGBA(std::uint_fast8_t red, std::uint_fast8_t green, std::uint_fast8_t blue, std::uint_fast8_t alpha = 255)
+					: m_red{ red },
+					m_green{ green },
+					m_blue{ blue },
+					m_alpha{ alpha }
+				{
+
+				}
+				void print()
+				{
+					std::cout << '(' << m_red << ", " << m_green << ", " << m_blue << ", " << m_alpha << ")\n";
+				}
+			};
+			RGBA teal{ 0, 127, 127 };
+			teal.print();
+
+			// correctish: need to cast to int in order to print, and need to provide default arguments for intializer constructor, default constructor unnecessary
 			break;
 		}
 		default:
