@@ -43,6 +43,9 @@ Read | Name | Author(s)
 Read | Name | Author(s)
 :-- | :--: | :--:
 :white_large_square: | [But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
+:white_large_square: | [Types and Programming Languages](https://www.amazon.com/dp/0262162091?tag=fivebooks001-20) | 
+Benjamin C. Pierce
+:white_large_square: | [The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | Charles Petzold
 :white_large_square: | [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
 :white_large_square: | [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew S. Tanenbaum, Herbert Bos
 :white_large_square: | [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/gp/product/0124077269) | David Patternson, John Hennessy
