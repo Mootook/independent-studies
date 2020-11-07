@@ -24,6 +24,26 @@ Read | Name | Author(s)
 :white_large_square: | [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) | Shriram Krishnamurthi
 :white_large_square: | [Programming and Programming Languages](https://papl.cs.brown.edu/2018/) | Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
 :white_large_square: | [Competitive Programming](https://cpbook.net/) | Steven Halim, Felix Halim
+:white_large_square: | [The Elements of Programming Style](https://www.amazon.com/Elements-Programming-Style-2nd/dp/0070342075) | Brain W. Kernighan, P.J. Plauger
+:white_large_square: | [The Practice of Programming](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X) | Brain W. Kernighan,Rob Pike
+
+## Programming (language specific)
+
+### C
+Read | Name | Author(s)
+:-- | :--: | :--:
+:white_large_square: | [Expert C Programming: Deep C Secrets](https://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298) | Peter Van Der Linden
+:white_large_square: | [Modern C](https://modernc.gforge.inria.fr/) | Jens Gustedt
+:white_large_square: | [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | Brian W. Kernighan, Dennis M. Ritchie
+
+### C++
+Read | Name | Author(s)
+:-- | :--: | :--:
+:white_large_square: | [Accelerated C++: Practical Programming by Example](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X) | Mike Hendrickson, Andrew Koenig
+:white_large_square: | [A Tour of C++, Second Edition)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) | Bjarne Stroustrup
+:white_large_square: | [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) | Scott Meyers
+:white_large_square: | [More Effective C++](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X) | Scott Meyers
+:white_large_square: | [The C++ Programming Language, Fourth Edition](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) | Bjarne Stroustrup
 
 ## Math
 
@@ -43,8 +63,7 @@ Read | Name | Author(s)
 Read | Name | Author(s)
 :-- | :--: | :--:
 :white_large_square: | [But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
-:white_large_square: | [Types and Programming Languages](https://www.amazon.com/dp/0262162091?tag=fivebooks001-20) | 
-Benjamin C. Pierce
+:white_large_square: | [Types and Programming Languages](https://www.amazon.com/dp/0262162091?tag=fivebooks001-20) | Benjamin C. Pierce
 :white_large_square: | [The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | Charles Petzold
 :white_large_square: | [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
 :white_large_square: | [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew S. Tanenbaum, Herbert Bos
