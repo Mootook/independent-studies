@@ -88,7 +88,7 @@ void chapterTwo()
 
 int main()
 {
-    chapterEight::section(5);
+    chapterEight::comprehensiveQuiz(4);
     return 0;
 }
 

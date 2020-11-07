@@ -5,6 +5,7 @@
 
 namespace chapterEight
 {   
+    void comprehensiveQuiz(int questionNumber);
     void section(int section);
 }
 

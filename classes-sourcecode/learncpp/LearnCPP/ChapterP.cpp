@@ -720,8 +720,6 @@ namespace chapterP
 
     void printCard(const Card &card)
     {
-        
-        
         std::string rankStr{};
         switch (card.rank) {
             case CARD_RANK::TWO:
