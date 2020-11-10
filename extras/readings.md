@@ -113,6 +113,7 @@ Read | Name | Author(s)
 :white_check_mark: | Developer's Dilemma: The Secret World of Video Game Creators | Casey O'Donnell
 :white_check_mark: | Understanding Comics | Scott McCloud
 :white_check_mark: | Boss Fight Books: Earthbound | Ken Baumann
+:white_check_mark: | Uncertainty in Games | Greg Costikyan 
 :white_large_square: | Game Engine Architecture, Third Edition | Jason Gregory
 :white_large_square: | The Art of Game Design | Jesse Schell 
 :white_large_square: | Level Up! | Scott Rogers
@@ -133,7 +134,6 @@ Read | Name | Author(s)
 :white_large_square: | The Art of Failure: An Essay on the Pain of Playing Video Games | Jesper Juul
 :white_large_square: | The Warcraft Civilization: Social Science in a Virtual World | William Sims Bainbridge
 :white_large_square: | The Well-Played Game: A Player's Philosophy | Bernard De Koven
-:white_large_square: | Uncertainty in Games | Greg Costikyan 
 :white_large_square: | Values at Play in Digital Games | Mary Flanagan and Helen Nissenbaum
 :white_large_square: | Works of Game: On the Aesthetics of Games and Art | John Sharp
 :white_large_square: | Manga in Theory and Practice: The Craft of Creating Manga | Hirohiko Araki
