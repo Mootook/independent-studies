@@ -1,6 +1,6 @@
-Intro to Computer Science and Programming in Python Notes
+### Intro to Computer Science and Programming in Python Notes
 
-Lecture 1 - What is Computation?
+#### Lecture 1 - What is Computation?
 
 Formerly two types of computers
 1. Fixed program computer (calculator), single tasked
