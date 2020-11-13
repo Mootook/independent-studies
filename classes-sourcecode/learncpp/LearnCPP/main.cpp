@@ -5,7 +5,12 @@
 //  Created by Alex Mutuc on 7/26/20.
 //  Copyright © 2020 Alex Mutuc. All rights reserved.
 //
-
+/**
+ *
+ * Chapter 0 - Getting Started
+ * Chapter 1 - C++ Basics
+ *
+ */
 /**
  * Preprocessor directive
  * We use angle brackets to tell the preprocessor that this library

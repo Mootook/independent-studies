@@ -10,7 +10,10 @@
 #define ChapterSix_h
 
 #include <stdio.h>
-
+/**
+ * Chapter 6 - Object Scope and Conversions
+ *
+ */
 namespace chapterSix
 {
     void section(int section);

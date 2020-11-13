@@ -2,7 +2,10 @@
 #define ChapterEight_h
 
 #include <stdio.h>
-
+/**
+ * Chapter 8 - Basic Object-Oriented Programming
+ *
+ */
 namespace chapterEight
 {   
     void comprehensiveQuiz(int questionNumber);

@@ -10,7 +10,10 @@
 #define ChapterS_hpp
 
 #include <stdio.h>
-
+/**
+ * Chapter S - Compound Types
+ *
+ */
 namespace chapterS
 {
     void section(int section);

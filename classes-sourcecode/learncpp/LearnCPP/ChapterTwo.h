@@ -5,6 +5,10 @@
 //  Created by Alex Mutuc on 8/8/20.
 //  Copyright © 2020 Alex Mutuc. All rights reserved.
 //
+/**
+ * Chapter 2 - C++ Basics: Functions and Files
+ *
+ */
 
 /**
  * Header guard - prevents against duplicate declarations on nested includes
