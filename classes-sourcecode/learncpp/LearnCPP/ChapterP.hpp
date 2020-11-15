@@ -11,6 +11,10 @@
 
 #include <stdio.h>
 
+/**
+ * Chapter P - Arrays, Strings, References, and Pointers
+ *
+ */
 namespace chapterP
 {
     void section(int section);
