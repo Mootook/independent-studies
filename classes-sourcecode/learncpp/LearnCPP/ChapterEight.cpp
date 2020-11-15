@@ -844,8 +844,7 @@ namespace chapterEight
 					return 0;
 				}
 			};
-
-
+			
 			class Deck
 			{
 				using cards = std::array<Card, 52>;
