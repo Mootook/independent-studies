@@ -1,2 +1,2 @@
 # Classes Source Code
-Source code and notes for programming related courses being pursued through OSSU
+Source code, notes, and exercises for courses and textbooks being worked through.
