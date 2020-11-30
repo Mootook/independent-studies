@@ -16,7 +16,7 @@ Watched | Title
 :white_large_square: | [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw)
 :white_large_square: | [Using Level Design Tools Expressively](https://www.youtube.com/watch?v=UwZz-GtCq1Y)
 :white_large_square: | [Choice Architecture, Player Expression, and Narrative Design in Fallout: New Vegas](https://www.youtube.com/watch?v=LR4OxNfzTvU)
-:white_large_sqare:  | [Cold, Hard Cache Insomniacs Cache Simulator](https://www.youtube.com/watch?v=SZOr0m-K5PQ)
+:white_large_square: | [Cold, Hard Cache Insomniacs Cache Simulator](https://www.youtube.com/watch?v=SZOr0m-K5PQ)
 
 ## YouTube Channels
 
