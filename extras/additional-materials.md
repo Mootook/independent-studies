@@ -56,7 +56,8 @@ Title | Description
 - https://www.gamasutra.com/blogs/
 
 ## Other
-- https://www.youtube.com/watch?v=BQbQShqqx_k
+- [The Game Makers: Inside Story Series](https://www.youtube.com/watch?v=BQbQShqqx_k)
+- [Crash Course: Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
 - https://www.gdcvault.com/gdmag
 - https://www.ehilldesign.com/the-last-of-us-part-ii
 - https://joeydevries.com/#about
@@ -64,7 +65,7 @@ Title | Description
 ## Math Resources
 - https://chortle.ccsu.edu/VectorLessons/vectorIndex.html
 - http://immersivemath.com/ila/index.html
-- https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
+- [Math for Game Developer Playlist](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 
 ## Articles
 - [Composition in Level Design](http://level-design.org/?page_id=2274)
