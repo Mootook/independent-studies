@@ -70,6 +70,7 @@ Title | Description
 - https://chortle.ccsu.edu/VectorLessons/vectorIndex.html
 - http://immersivemath.com/ila/index.html
 - [Math for Game Developer Playlist](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+- [Professor Leonard Lectures](https://www.youtube.com/c/ProfessorLeonard/videos)
 
 ## Articles
 - [Composition in Level Design](http://level-design.org/?page_id=2274)
