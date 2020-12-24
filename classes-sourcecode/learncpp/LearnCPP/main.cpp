@@ -35,6 +35,7 @@
 #include "ChapterTen.h"
 #include "ChapterTwelve.h"
 #include "ChapterThirteen.h"
+#include "ChapterFourteen.h"
 
 void forwardDeclaration(); // function prototype "forward declaration"
 
@@ -97,7 +98,7 @@ void chapterTwo()
 
 int main()
 {
-    chapterThirteen::comprehensiveQuiz(3);
+    chapterFourteen::comprehensiveQuiz();
     return 0;
 }
 
