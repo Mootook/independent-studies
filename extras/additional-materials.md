@@ -58,6 +58,7 @@ Title | Description
 - http://www.jeffongames.com/articles/
 - http://www.sirlin.net/article-archive
 - https://www.gamasutra.com/blogs/
+- https://www.clicknothing.com/click_nothing/
 
 ## Other
 - [The Game Makers: Inside Story Series](https://www.youtube.com/watch?v=BQbQShqqx_k)
