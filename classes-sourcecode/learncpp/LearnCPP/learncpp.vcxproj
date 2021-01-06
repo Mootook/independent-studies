@@ -149,6 +149,7 @@
     <ClCompile Include="ChapterF.cpp" />
     <ClCompile Include="ChapterFive.cpp" />
     <ClCompile Include="ChapterFour.cpp" />
+    <ClCompile Include="ChapterFourteen.cpp" />
     <ClCompile Include="ChapterL.cpp" />
     <ClCompile Include="ChapterNine.cpp" />
     <ClCompile Include="ChapterO.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="ChapterTen.cpp" />
     <ClCompile Include="ChapterTwelve.cpp" />
     <ClCompile Include="ChapterTwo.cpp" />
+    <ClCompile Include="ChpaterThirteen.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -165,6 +167,7 @@
     <ClInclude Include="ChapterF.h" />
     <ClInclude Include="ChapterFive.h" />
     <ClInclude Include="ChapterFour.h" />
+    <ClInclude Include="ChapterFourteen.h" />
     <ClInclude Include="ChapterL.hpp" />
     <ClInclude Include="ChapterNine.h" />
     <ClInclude Include="ChapterO.h" />
@@ -172,6 +175,7 @@
     <ClInclude Include="ChapterS.hpp" />
     <ClInclude Include="ChapterSix.h" />
     <ClInclude Include="ChapterTen.h" />
+    <ClInclude Include="ChapterThirteen.h" />
     <ClInclude Include="ChapterTwelve.h" />
     <ClInclude Include="ChapterTwo.h" />
     <ClInclude Include="constants.h" />

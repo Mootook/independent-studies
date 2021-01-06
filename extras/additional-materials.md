@@ -17,6 +17,10 @@ Watched | Title
 :white_large_square: | [Using Level Design Tools Expressively](https://www.youtube.com/watch?v=UwZz-GtCq1Y)
 :white_large_square: | [Choice Architecture, Player Expression, and Narrative Design in Fallout: New Vegas](https://www.youtube.com/watch?v=LR4OxNfzTvU)
 :white_large_square: | [Cold, Hard Cache Insomniacs Cache Simulator](https://www.youtube.com/watch?v=SZOr0m-K5PQ)
+:white_large_square: | [Math for Game Programmers: Noise-Based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU&list=WL&index=15&ab_channel=GDC)
+:white_large_square: | [Crash Course in Online Features for Programmers](https://www.youtube.com/watch?v=HVpcRXVkQl0&list=WL&index=16&ab_channel=GDC)
+:white_large_square: | [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?v=09r1B9cVEQY&list=WL&index=17&ab_channel=GDC)
+:white_large_square: | [Rules of the Game: Five Techniques from Inventive Designers](https://www.youtube.com/watch?v=d8QAVGeEj-U&list=WL&index=19&ab_channel=GDC)
 
 ## YouTube Channels
 
@@ -54,6 +58,7 @@ Title | Description
 - http://www.jeffongames.com/articles/
 - http://www.sirlin.net/article-archive
 - https://www.gamasutra.com/blogs/
+- https://www.clicknothing.com/click_nothing/
 
 ## Other
 - [The Game Makers: Inside Story Series](https://www.youtube.com/watch?v=BQbQShqqx_k)
@@ -66,6 +71,7 @@ Title | Description
 - https://chortle.ccsu.edu/VectorLessons/vectorIndex.html
 - http://immersivemath.com/ila/index.html
 - [Math for Game Developer Playlist](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+- [Professor Leonard Lectures](https://www.youtube.com/c/ProfessorLeonard/videos)
 
 ## Articles
 - [Composition in Level Design](http://level-design.org/?page_id=2274)
