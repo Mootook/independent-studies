@@ -5,17 +5,22 @@ A document to record my impressions after courses/readings completed before and 
 ## Table of Contents
 
 - [Courses](#courses)
+  - [Linear Algebra: Linear Equations](#linear-algebra:-linearequations)
 - [Tutorials](#tutorials)
 - [Books](#books)
   - [Understanding Comics - Scott McCloud](#understanding-comics---scott-mccloud)
 - [Other Resources](#other-resources)
 
-### Courses
+## Courses
 
-### Tutorials
+### Linear Algebra: LinearEquations
 
-### Books
+[Linear Algebra: Linear Equations](https://www.edx.org/course/linear-equations-part-1) was an...unhelpful course. I suppose it's not going to be a very helpful review when a lot of the fault lies on me for not better preparing mathematically for Linear Algebra.
 
-#### Understanding Comics - Scott McCloud
+## Tutorials
 
-### Other Resources
+## Books
+
+### Understanding Comics - Scott McCloud
+
+## Other Resources
