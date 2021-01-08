@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="ChapterEight.cpp" />
     <ClCompile Include="ChapterF.cpp" />
+    <ClCompile Include="ChapterFifteen.cpp" />
     <ClCompile Include="ChapterFive.cpp" />
     <ClCompile Include="ChapterFour.cpp" />
     <ClCompile Include="ChapterFourteen.cpp" />
@@ -165,6 +166,7 @@
   <ItemGroup>
     <ClInclude Include="ChapterEight.h" />
     <ClInclude Include="ChapterF.h" />
+    <ClInclude Include="ChapterFifteen.h" />
     <ClInclude Include="ChapterFive.h" />
     <ClInclude Include="ChapterFour.h" />
     <ClInclude Include="ChapterFourteen.h" />
