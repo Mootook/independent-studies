@@ -1,4 +1,4 @@
-# Readings - Computer Science / Game Design
+# Readings - Computer Science / Game Design :books:
 
 This document consists of great books or articles on computer science, game design, and some miscellaneous books.
 Some are here because there is a course covering the same material;
