@@ -62,7 +62,7 @@ Read | Name | Author(s)
 
 Read | Name | Author(s)
 :-- | :--: | :--:
-:white_large_square: | [But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
+:white_check_mark: | [But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
 :white_large_square: | [Types and Programming Languages](https://www.amazon.com/dp/0262162091?tag=fivebooks001-20) | Benjamin C. Pierce
 :white_large_square: | [The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | Charles Petzold
 :white_large_square: | [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
