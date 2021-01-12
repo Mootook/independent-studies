@@ -140,3 +140,8 @@ Read | Name | Author(s)
 :white_large_square: | Story | Roberty McKee
 :white_large_square: | 101 Things I Learned in Architecture School | Matthew Frederick
 
+## Misc.
+Read | Name | Author(s)
+:-- | :--: | :--:
+:white_large_square: | [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/?utm_source=conery&utm_medium=blog&utm_campaign=announcement%20post#pricing) | Rob Conery
+
