@@ -37,18 +37,28 @@ Title | Description
 
 
 ## Podcasts
-- Play. Watch, Listen
-- Idle Thumbs
-- The Game Design RoundTable
-- Dev Game Club
-- The Game Informer Show
-- Noclip
-- Tone Control (Idle Thumbs)
-- Triple Click
-- The AIAS Game Maker's Notebook
-- Designer Notes (Idle Thumbs)
-- The Official The Last of Us Podcast
-- Game Dev Unchained
+- [Play, Watch, Listen](https://podcasts.apple.com/us/podcast/play-watch-listen/id1492391341)
+- [Idle Thumbs](https://podcasts.apple.com/us/podcast/idle-thumbs/id293436552)
+- [The Game Design Round Table](https://podcasts.apple.com/us/podcast/the-game-design-round-table/id578641256)
+- [Dev Game Club](https://podcasts.apple.com/us/podcast/dev-game-club/id1090136163)
+- [The Game Informer Show](https://podcasts.apple.com/us/podcast/the-game-informer-show/id335246945)
+- [Noclip](https://podcasts.apple.com/us/podcast/noclip/id1385062988)
+- [Tone Control (Idle Thumbs)](https://podcasts.apple.com/us/podcast/tone-control/id730148800)
+- [Triple Click](https://podcasts.apple.com/us/podcast/triple-click/id1507834679)
+- [The AIAS Game Maker's Notebook](https://podcasts.apple.com/us/podcast/the-aias-game-makers-notebook/id1313004515)
+- [Designer Notes (Idle Thumbs)](https://podcasts.apple.com/us/podcast/designer-notes/id935345158)
+- [The Official The Last of Us Podcast](https://podcasts.apple.com/us/podcast/the-official-the-last-of-us-podcast/id1514792212)
+- [Game Dev Unchained](https://podcasts.apple.com/us/podcast/game-dev-unchained/id1043547750)
+- [Kotaku Splitscreen](https://podcasts.apple.com/ca/podcast/kotaku-splitscreen/id1039413502)
+- [Coffee with ButterScotch](https://podcasts.apple.com/us/podcast/coffee-with-butterscotch-a-game-dev-comedy-podcast/id981361117)
+- [So Very Wrong About Games](https://podcasts.apple.com/us/podcast/so-very-wrong-about-games/id1316809169)
+- [Coding Blocks](https://podcasts.apple.com/us/podcast/coding-blocks/id769189585)
+- [Inside Gaming Podcast](https://podcasts.apple.com/us/podcast/inside-gaming-podcast/id1498840921)
+- [Game Dev Advice: The Game Developer's Podcast](https://podcasts.apple.com/us/podcast/game-dev-advice-the-game-developers-podcast/id1450096263)
+- [Game Dev Breakdown](https://podcasts.apple.com/us/podcast/gamedev-breakdown/id1262767515)
+- [Building the Game](https://podcasts.apple.com/us/podcast/building-the-game/id533274562)
+- [Game Dev Field Guide](https://podcasts.apple.com/us/podcast/game-dev-field-guide/id1501991718)
+
 
 ## Blogs
 - https://jonshaferondesign.com/
