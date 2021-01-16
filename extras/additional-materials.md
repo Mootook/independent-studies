@@ -85,4 +85,4 @@ Title | Description
 
 ## Articles
 - [Composition in Level Design](http://level-design.org/?page_id=2274)
-
+- [Analysis of Unity's Character Controller](https://roystanross.wordpress.com/2014/05/07/custom-character-controller-in-unity-part-1-collision-resolution/)
