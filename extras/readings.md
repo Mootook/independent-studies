@@ -73,6 +73,8 @@ Read | Name | Author(s)
 :white_large_square: | [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X) | Andrew Tanenbaum
 :white_large_square: | [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/) | Various
 :white_large_square: | [System Design: Design large-scale systems](https://github.com/donnemartin/system-design-primer) | Various
+:white_large_square: | [Operating Systems Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388) | Andrew S. Tanenbaum, Albert S. Woodhull
+:white_large_square: | [Principles of Compiler Design](https://www.amazon.com/Principles-Compiler-Addison-Wesley-information-processing/dp/0201000229) | Alfred Aho, Jeffrey Ullman
 
 ## Theory
 

@@ -16,7 +16,7 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 - [Does every resource in the main curriculum have to be free?](#does-every-resource-in-the-main-curriculum-have-to-be-free)
 - [Are Coursera courses free to access?](#are-coursera-courses-free-to-access)
 - [Is it necessary to purchase the Verified Upgrade for edX courses?](#is-it-necessary-to-purchase-the-verified-upgrade-for-edx-courses)
-- [Why do you recommend skipping the second half of CS50?](#why-do-you-recommend-skipping-the-second-half-of-cs50)
+- [What are the alt links?](#what-are-the-alt-links)
 - [Why doesn't the curriculum cover/ignore topic X?](#why-doesnt-the-curriculum-coverignore-topic-x)
 - [Why is the curriculum missing some pre-requisites?](#why-is-the-curriculum-missing-some-pre-requisites)
 - [Why require experience with a sizable project before the Software Engineering courses?](#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses)
@@ -100,13 +100,9 @@ When attempting to enroll in such a course:
 
 If you just want to watch the videos, it is never necessary for any edX course on our curriculum. Note that a number of edX courses only allow students to audit a course for the estimated number of weeks it takes to complete. Students should not begin a course until they are prepared to focus and complete the course.
 
-### Why do you recommend skipping the second half of CS50?
+### What are the alt links?
 
-The strongest and most useful part of CS50 is the part where they teach C.
-We are retaining this in the curriculum for now because it is one of the few chances the student has to play with manual memory management in a (relatively) low-level language.
-By learning C, students will also have a much easier time getting through the following course, Nand2Tetris.
-
-That being said, feel free to finish CS50 if you like it and want to.
+Sometimes a course is on multiple platforms that are reasonably similar in quality so we have an alt or two linked in case the main one isn't being offered at the time or you prefer the other one. Both are just as good, go with whichever you prefer or whichever is available when you want to take the course.
 
 ### Why doesn't the curriculum cover/ignore topic X?
 
