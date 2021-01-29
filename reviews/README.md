@@ -40,6 +40,16 @@ Again, the course doesn't feel revolutionary in its message, but as someone with
 
 ## Tutorials
 
+### learncpp.com
+
+Recommended? No but maybe.
+
+[Course link](https://www.learncpp.com/)
+
+This course is a little hard for me to judge/rate because of how my learning path has changed since I started it. I began learncpp in July. It took me six months of consistent (excluding a few breaks because of life changes) work to finish. I had a different job, I lived in a different place, etc, etc, life changes. But beyond all that, I started this course before I found and committed to OSSU, a program I feel has been invaluable in helping me focus my efforts. If I started OSSU today I don't think I would've included learncpp on there. Not because it isn't a great resource. It's an amazing resource...just not really what I need. With that out of the way though, I can say I did benefit a lot from learncpp. It's written clearly and it shed some light (although not much) on concepts I had employed  but never really understood like pointers or the preprocessor. They're simple enough concepts, and I used them everyday at work during my time programming in obj-c, but I never understood why. I developed these habits from copy pasting and occasional insights stack overflow, but I never understood their purpose or reason. I wouldn't say learncpp gave a fundamental basis to these concepts, but it's gotten me started with some ground-level fluency so I can look into ideas and topics on my own.
+
+And of course, learncpp is great for learning c++ as it's name could apply if you read deep enough (who's to say). But as someone who's had to learn a few languages on the fly, it has become easier and easier to communicate basic ideas in a new language once I understand how to get something to compile and run. Should figuring out C++ be any different? Yup. C++ is massive and has features and tricks and concepts I've never encountered before. As a performative and extensive language, C++ offers a lot of tools, but it also exposes its programmer to a lot of core concepts in the field of computer science, things you don't have to be bothered with in other languages, things that, when I read about them or tried them, exposed how little I understood about the complete picture of programming. The quizzes and readings were helpful, but the most valuable thing I got from learncpp was the exposure to complicated topics that I had not idea how to confront. That is one of the main reasons I still can't help but feel my time would've been better spent on a different course of study, maybe even using this time to contribute to open source c++ projects, and using learncpp as a supplement to those efforts.
+
 ## Books
 
 ### But How Do it Know? - J. Clark Scott
