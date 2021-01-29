@@ -34,6 +34,7 @@ Title | Description
 [Errant Signal](https://www.youtube.com/c/ErrantSignal/featured) | Game analyses
 [Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer/playlists) | Advanced C++ Tutorials
 [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | C++ Tutorials/Concepts
+[Sebasitan Lague](https://www.youtube.com/c/SebastianLague/videos) | Game Development / Programming Logs
 
 
 ## Podcasts
