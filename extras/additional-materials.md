@@ -77,6 +77,7 @@ Title | Description
 - https://www.gdcvault.com/gdmag
 - https://www.ehilldesign.com/the-last-of-us-part-ii
 - https://joeydevries.com/#about
+- https://classroom.thenational.academy/subjects-by-key-stage/key-stage-3/subjects/computing
 
 ## Math Resources
 - https://chortle.ccsu.edu/VectorLessons/vectorIndex.html
