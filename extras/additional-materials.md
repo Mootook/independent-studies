@@ -74,6 +74,7 @@ Title | Description
 ## Other
 - [The Game Makers: Inside Story Series](https://www.youtube.com/watch?v=BQbQShqqx_k)
 - [Crash Course: Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+- [Crash Course: Video Games](https://www.youtube.com/watch?v=FVTNtlq3-44&list=PLH2l6uzC4UEWaxXuH9MRuhcylnsyzjgmQ&ab_channel=CrashCourse)
 - https://www.gdcvault.com/gdmag
 - https://www.ehilldesign.com/the-last-of-us-part-ii
 - https://joeydevries.com/#about
