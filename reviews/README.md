@@ -23,14 +23,19 @@ Recommended: Yes
 
 [Course link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
+This course is great! A bit of a slog at first since I have programming experience. A lot of the early lectures are about data types, functions, expressions, sort of universal patterns in modern programming languages. I can imagine people with python experience will find them even more unremarkable. But the latter half of the course introduces a lot of basic computer science concepts that I had never studied formally, things like recursion, big o notation, things I "knew" about but didn't really understand. So even though I thought the beginnning was a bit of a chore, and the earlier PSETs were initially tedious, a lot of the lectures delving more into theory were some of the best talks I've encountered in my studies thus far. And they need those earlier lectures and PSETs as their foundation. The lecturers are both great and entertaining and presented the material in a clear and approachable way. They both did a good job of balancing some of the necessary minute details without getting bogged down in the weeds when dealing with granular topics.
 
+The reading I thought was uncessary, not that it wasn't a good book. It was well written and concise, so it's not like it was laborious, but it was just a general rehash of the lectures, which I generally felt were easy enough to follow. Topics requiring more explanation or practice were usually found in PSETs.
 
+I think this course fits the overall goal of my independent-studies project well: to plug in some of my computer science gaps. While I can program and I've picked up concepts at work, writing in different languages, working on my own projects, it's invaluable to have those ideas and practices formalized and explained in an academic setting. 
+
+If I were to start this course again, the only thing I would change is to perhaps move through the first half quicker as it was mostly getting acquainted with python and programming workflows. All in all though, I'm confident this course will pay dividends as I pursue more and more difficult topics built directly upon this one. Very happy I took this course.
 
 ### Linear Algebra: Linear Equations
 
 Recommended? No
 
-[Linear Algebra: Linear Equations](https://www.edx.org/course/linear-equations-part-1) was an...unhelpful course. I suppose it's not going to be a very helpful review when a lot of the fault lies on me for not better preparing mathematically for Linear Algebra.
+[Linear Algebra: Linear Equations](https://www.edx.org/course/linear-equations-part-1) was an...unhelpful course. I suppose it's not going to be a very helpful review when a lot of the fault lies on me for not better preparing mathematically for Linear Algebra. Nonetheless, the lecturer had a disjointed way of proceeding through topics that made concepts tough to follow. In my mind, this course is probably fine as a review for people who studied linear algebra in a formal context but not as a standalone resource for self-teaching.
 
 ### Learning How to Learn
 
