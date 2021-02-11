@@ -9,6 +9,7 @@ A document to record my impressions after courses/readings completed before and 
   - [Linear Algebra: Linear Equations](#linear-algebra---linear-equations)
   - [Learning How To Learn](#learning-how-to-learn)
 - [Tutorials](#tutorials)
+  - [learncpp.com](#learncpp.com)
 - [Books](#books)
   - [But How Do it Know - J. Clark Scott](#but-how-do-it-know?---j.-clark-scott)
   - [Understanding Comics - Scott McCloud](#understanding-comics---scott-mccloud)
