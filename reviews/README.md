@@ -6,7 +6,7 @@ A document to record my impressions after courses/readings completed before and 
 
 - [Courses](#courses)
   - [Introduction to Programming ](#introduction-to-computer-science-and-programming-in-python)
-  - [Linear Algebra: Linear Equations](#linear-algebra:-linearequations)
+  - [Linear Algebra: Linear Equations](#linear-algebra---linear-equations)
   - [Learning How To Learn](#learning-how-to-learn)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -31,7 +31,7 @@ I think this course fits the overall goal of my independent-studies project well
 
 If I were to start this course again, the only thing I would change is to perhaps move through the first half quicker as it was mostly getting acquainted with python and programming workflows. All in all though, I'm confident this course will pay dividends as I pursue more and more difficult topics built directly upon this one. Very happy I took this course.
 
-### Linear Algebra: Linear Equations
+### Linear Algebra - Linear Equations
 
 Recommended? No
 
