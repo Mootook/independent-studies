@@ -5,6 +5,7 @@ A document to record my impressions after courses/readings completed before and 
 ## Table of Contents
 
 - [Courses](#courses)
+  - [Introduction to Programming ](#introduction-to-computer-science-and-programming-in-python)
   - [Linear Algebra: Linear Equations](#linear-algebra:-linearequations)
   - [Learning How To Learn](#learning-how-to-learn)
 - [Tutorials](#tutorials)
@@ -16,7 +17,16 @@ A document to record my impressions after courses/readings completed before and 
 
 ## Courses
 
-### Linear Algebra: LinearEquations
+### Introduction to Computer Science and Programming in Python
+
+Recommended: Yes
+
+[Course link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+
+
+
+### Linear Algebra: Linear Equations
 
 Recommended? No
 
