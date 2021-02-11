@@ -5,7 +5,7 @@ A document to record my impressions after courses/readings completed before and 
 ## Table of Contents
 
 - [Courses](#courses)
-  - [Introduction to Programming ](#introduction-to-computer-science-and-programming-in-python)
+  - [Introduction to Computer Science and Progamming in Python](#introduction-to-computer-science-and-programming-in-python)
   - [Linear Algebra: Linear Equations](#linear-algebra---linear-equations)
   - [Learning How To Learn](#learning-how-to-learn)
 - [Tutorials](#tutorials)
