@@ -9,4 +9,3 @@ Introduction to Computer Science and Programming in Python | [Source Code](https
 learncpp.com | [Source Code](https://github.com/Mootook/learncpp.com)
 How To Code - Simple Data | [Source Code](https://github.com/Mootook/how-to-code-simple-data)
 Build a Modern Computer from First Principles: From Nand to Tetris | [Source Code](https://github.com/Mootook/nand-to-tetris)
-Introduction To Mathematical Thinking | 
