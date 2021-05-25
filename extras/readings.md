@@ -117,7 +117,7 @@ Read | Name | Author(s)
 :white_check_mark: | Boss Fight Books: Earthbound | Ken Baumann
 :white_check_mark: | Uncertainty in Games | Greg Costikyan 
 :white_large_square: | Game Engine Architecture, Third Edition | Jason Gregory
-:white_large_square: | The Art of Game Design | Jesse Schell 
+✅ | The Art of Game Design | Jesse Schell 
 :white_large_square: | Level Up! | Scott Rogers
 :white_large_square: | Framed Ink | Marcos Mateu-Mestre
 :white_large_square: | Things We Think About Games | Will Hindmarch & Jeff Tidball
