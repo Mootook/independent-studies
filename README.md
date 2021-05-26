@@ -124,7 +124,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ### Introduction to Programming (disregard)
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
+~~If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.~~
 
 **Topics covered**:
 `simple programs`
@@ -132,9 +132,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+~~[Python for Everybody](https://www.py4e.com/lessons)~~ | ~~10 weeks~~ | ~~10 hours/week~~ | ~~none~~ | ~~[chat](https://discord.gg/syA242Z)~~ 
 
-### Introduction to Computer Science
+### Introduction to Computer Science :white_check_mark:
 
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
@@ -146,7 +146,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+~~[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))~~ | ~~9 weeks~~ | ~~15 hours/week~~ | ~~[high school algebra](https://www.khanacademy.org/math/algebra-home)~~ | ~~[chat](https://discord.gg/jvchSm9)~~ 
 
 ## Core CS
 
@@ -171,7 +171,7 @@ The How to Code courses are based on the textbook [How to Design Programs](https
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-~~[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)~~ | 7 weeks | 8-10 hours/week | none | [chat](https://discord.gg/RfqAmGJ)
+~~[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)~~ :white_check_mark: | ~~7 weeks~~ | ~~8-10 hours/week~~ | ~~none~~ | ~~[chat](https://discord.gg/RfqAmGJ)~~ 
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
@@ -254,7 +254,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-~~[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/))~~ | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
+~~[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/))~~ :white_check_mark: | ~~6 weeks~~ | ~~7-13 hours/week~~ | - | ~~C-like programming language~~ | ~~[chat](https://discord.gg/vxB2DRV)~~ 
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6 hours/week | - | algorithms, [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) is useful | [chat](https://discord.gg/wZNgpep)
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)<br>[Interactive Problems](https://gaia.cs.umass.edu/kurose_ross/interactive/index.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
