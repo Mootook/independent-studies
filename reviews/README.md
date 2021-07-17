@@ -5,13 +5,15 @@ A document to record my impressions after courses/readings completed before and 
 ## Table of Contents
 
 - [Courses](#courses)
-  - [Introduction to Computer Science and Progamming in Python](#introduction-to-computer-science-and-programming-in-python)
+  - [Introduction to Computer Science and Programming in Python](#introduction-to-computer-science-and-programming-in-python)
   - [Linear Algebra: Linear Equations](#linear-algebra---linear-equations)
   - [Learning How To Learn](#learning-how-to-learn)
 - [Tutorials](#tutorials)
   - [learncpp.com](#learncpp.com)
 - [Books](#books)
   - [But How Do it Know - J. Clark Scott](#but-how-do-it-know?---j.-clark-scott)
+  - [The Art of Game Design - Jesse Schell](#the-art-of-game-design---jesse-schell)
+  - [Clean Code - Robert Martin](#clean-code---robert-martin)
   - [Understanding Comics - Scott McCloud](#understanding-comics---scott-mccloud)
 - [Other Resources](#other-resources)
   - [Podcasts](#podcasts)
@@ -54,6 +56,12 @@ The other part of this course I benefited from was the section on the fallacy of
 
 Again, the course doesn't feel revolutionary in its message, but as someone with a long list of topics I'd like to learn, I feel genuinely prepared to tackle all of those concepts. Learning them may still be daunting, but Dr. Barbara Oakley has given me a solid toolkit, a way to plan and develop stronger means to wrestle with increasingly complex subject matter.
 
+### How to Code - Simple Data
+
+Recommended? Yes
+
+[Course Link](https://www.edx.org/course/how-to-code-simple-data)
+
 ## Tutorials
 
 ### learncpp.com
@@ -77,6 +85,20 @@ This book was difficult for me. Even after reading it, spending time with (it to
 ### Understanding Comics - Scott McCloud
 
 Recommended? Yes
+
+### The Art of Game Design - Jesse Schell
+
+Recommended? Yes
+
+### Clean Code - Robert Martin
+
+Recommended? Yes
+
+
+
+
+
+
 
 ## Other Resources
 
