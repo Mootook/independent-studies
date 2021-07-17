@@ -18,7 +18,7 @@ Read | Name | Author(s)
 :white_large_square: | [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) | Peter Van Roy, Seif Haridi
 :white_large_square: | [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 :white_large_square: | [Refactoring](https://www.refactoring.com/) | Martin Fowler
-:white_large_square: | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert Martin
+✅ | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert Martin
 :white_large_square: | [Code Complete 2e](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) | Steve McConnell
 :white_large_square: | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) | Andrew Hunt, David Thomas
 :white_large_square: | [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) | Shriram Krishnamurthi
