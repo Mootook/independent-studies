@@ -94,11 +94,7 @@ Recommended? Yes
 
 Recommended? Yes
 
-
-
-
-
-
+It's possible I read this too early in my computer science education even though I got a lot out of it. Most of what stayed with me were things I felt I already knew, but I had never dived deep into why these concepts or practices mattered: variable names, class structure, srp functions, open-closed principle. If I weren't programming full-time for my job, some of this stuff may have been trivial to read about and not being fluent in Java meant I wasn't able to dive fully into the example reworks, though perusing them did allow me to follow with the author's explanations. As in, of course you should name arguments in a function sensibly, but working at a startup means sometime I'm coding quickly with little regard to the code's readability. Martin hammers the importance of maintaining code, elevating the time one should predict to spend doing it with the time it takes to actually write and debug it in the first place. The more and more I program, the less, I feel, I'm actually writing code. So much of my time now it thinking about the solution, does it fit into the patterns provided by the application's architecture, could I, if necessary, explain and the leave the codebase to another engineer. What I realized while reading and trying to understand what made code clean or beautiful was that the answer, especially regarding some of my professional work was, no. My functions were monoliths, my modules were hundreds and hundreds of lines long, I passed booleans into functions that did multiple things under vague names. Some of the guidelines, I felt were only possible in an ideal world. A complete lack of comments, for example, is virtually impossible especially in front-end web development where so much of the code is wrangling in dependencies and api specifications that are largely outside the control of the engineer. But I did benefit a great deal from this book, and I'm glad, in reading it, I can rethink many of my solutions and decisions. It's made my job harder, requiring me to think harder about what I want to do, expand the time I think it'll take me to implement a new feature or resolve tech-debt. But in trying to become a better programmer and computer scientist, I suppose this book is right on par with the intention of my curriculum.
 
 ## Other Resources
 
